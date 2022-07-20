@@ -1,0 +1,30 @@
+﻿  Kernel.cpp
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(89,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(138,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(155,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(184,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(202,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(223,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(228,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(207,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(240,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(247,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(253,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(289,25): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(273,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(295,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(305,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(339,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(320,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(325,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(365,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\Kernel.cpp(352,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  TcpServerMediator.cpp
+  CMySql.cpp
+  TcpClient.cpp
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\net\TcpClient.cpp(58,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\ASUS\Desktop\聊天软件\1007IMServer\net\TcpClient.cpp(143,32): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  UdpNet.cpp
+  正在生成代码...
+  1007IMServer.vcxproj -> C:\Users\ASUS\Desktop\聊天软件\x64\Debug\1007IMServer.exe
