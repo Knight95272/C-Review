@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="FoeBox">
+      <UniqueIdentifier>{87fb9c97-d338-4907-8ff6-036ed17e0839}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameConfig">
+      <UniqueIdentifier>{3a13ebc0-0481-4a14-8d05-cbe4393aee42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameFrame">
+      <UniqueIdentifier>{be5baf09-3626-4765-b317-777e0744af9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="images">
+      <UniqueIdentifier>{e5700453-0139-47fb-b730-4ded60c12146}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{07e4ffc6-87e8-45cd-b751-eeb835385443}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MoTaApp">
+      <UniqueIdentifier>{5283bc8d-be24-49d7-a09a-da6527c338e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MoTaBackGround">
+      <UniqueIdentifier>{d1e37eee-31ea-4ae8-aed9-9008d6036e1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{8d3ad8bc-a862-4244-a185-7e87a280a3ca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Item\Item.c">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="GameFrame\WinMain.cpp">
+      <Filter>GameFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="MoTaApp\MoTaApp.cpp">
+      <Filter>MoTaApp</Filter>
+    </ClCompile>
+    <ClCompile Include="MoTaBackGround\MoTaBackGround.cpp">
+      <Filter>MoTaBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="Player\Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeBox\FoeBox.cpp">
+      <Filter>FoeBox</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeBox\FoeBatSmall.cpp">
+      <Filter>FoeBox</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeBox\FoeSkullMid.cpp">
+      <Filter>FoeBox</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeBox\FoeSkullSmall.cpp">
+      <Filter>FoeBox</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeBox\FoeSlmGreen.cpp">
+      <Filter>FoeBox</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeBox\FoeMagePrimary.cpp">
+      <Filter>FoeBox</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeBox\FoeBoxLevel.cpp">
+      <Filter>FoeBox</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Item\Item.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="GameFrame\GameApp.h">
+      <Filter>GameFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="GameConfig\GameConfig.h">
+      <Filter>GameConfig</Filter>
+    </ClInclude>
+    <ClInclude Include="MoTaApp\MoTaApp.h">
+      <Filter>MoTaApp</Filter>
+    </ClInclude>
+    <ClInclude Include="MoTaBackGround\MoTaBackGround.h">
+      <Filter>MoTaBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="Player\Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeBox\FoeBox.h">
+      <Filter>FoeBox</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeBox\FoeBatSmall.h">
+      <Filter>FoeBox</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeBox\FoeSkullMid.h">
+      <Filter>FoeBox</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeBox\FoeSkullSmall.h">
+      <Filter>FoeBox</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeBox\FoeSlmGreen.h">
+      <Filter>FoeBox</Filter>
+    </ClInclude>
+    <ClInclude Include="images\resource.h">
+      <Filter>images</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeBox\FoeMagePrimary.h">
+      <Filter>FoeBox</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeBox\FoeBoxLevel.h">
+      <Filter>FoeBox</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="游戏平台.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\Other09_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\backstatus.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Event01-Wall02_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\.2_C++\游戏平台\images\Item01-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\.2_C++\游戏平台\images\Item01-01_1_2_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\.2_C++\游戏平台\images\Item01-01_1_3_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Actor01-Braver1_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Actor01-Braver2_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Actor01-Braver3_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Actor01-Braver4_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Item01-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Item01-01_1_2_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Item01-01_1_3_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Monster01-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Monster02-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Monster02-01_2_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Monster03-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="images\Monster06-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

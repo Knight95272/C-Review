@@ -1,0 +1,97 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "./images/resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BACK                BITMAP                  "./images/Other09_看图王_看图王.bmp"
+
+IDB_BACKSTATUS          BITMAP                  "./images/backstatus.bmp"
+
+IDB_WALL                BITMAP                  "./images/Event01-Wall02_看图王_看图王.bmp"
+
+IDB_YELLOWKEY           BITMAP                  "./images/Item01-01_1_1_看图王.bmp"
+
+IDB_BLUEKEY             BITMAP                  "./images/Item01-01_1_2_看图王.bmp"
+
+IDB_REDKEY              BITMAP                  "./images/Item01-01_1_3_看图王.bmp"
+
+IDB_PLAYERDOWN          BITMAP                  "./images/Actor01-Braver1_看图王_看图王.bmp"
+
+IDB_PLAYERLEFT          BITMAP                  "./images/Actor01-Braver2_看图王_看图王.bmp"
+
+IDB_PLAYERRIGHT         BITMAP                  "./images/Actor01-Braver3_看图王_看图王.bmp"
+
+IDB_PLAYERUP            BITMAP                  "./images/Actor01-Braver4_看图王_看图王.bmp"
+
+IDB_SLMGREEN            BITMAP                  "./images/Monster01-01_1_1_看图王.bmp"
+
+IDB_SKULLSMALL          BITMAP                  "./images/Monster02-01_1_1_看图王.bmp"
+
+IDB_SKULLMID            BITMAP                  "./images/Monster02-01_2_1_看图王.bmp"
+
+IDB_BATSMALL            BITMAP                  "./images/Monster03-01_1_1_看图王.bmp"
+
+IDB_MAGEPRIMARY         BITMAP                  "./images/Monster06-01_1_1_看图王.bmp"
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
